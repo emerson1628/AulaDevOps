@@ -1,2 +1,3 @@
 # auladevops
-primeira aula
+primeira aula com o github<br>
+Emerson Junior<br>
